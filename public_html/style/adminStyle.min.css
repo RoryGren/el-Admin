@@ -1,0 +1,1 @@
+.filters input[type=text]:disabled{background-color:transparent!important;border:0}input:disabled::-webkit-input-placeholder{color:#333}input:disabled:-moz-placeholder{color:#333}input:disabled::-moz-placeholder{color:#333}input:disabled:-ms-input-placeholder{color:#333}.table-hover tbody>tr:hover{cursor:pointer;background-color:#CCC}

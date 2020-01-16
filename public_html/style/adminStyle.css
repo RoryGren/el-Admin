@@ -1,0 +1,25 @@
+.filters input[type=text]:disabled
+{
+	background-color:	transparent !important;
+	border:				none;
+	/*color:				#333;*/
+}
+
+input:disabled::-webkit-input-placeholder { /* WebKit browsers */
+    color:    #333;
+}
+input:disabled:-moz-placeholder { /* Mozilla Firefox 4 to 18 */
+    color:    #333;
+}
+input:disabled::-moz-placeholder { /* Mozilla Firefox 19+ */
+    color:    #333;
+}
+input:disabled:-ms-input-placeholder { /* Internet Explorer 10+ */
+    color:    #333;
+}
+
+.table-hover tbody>tr:hover
+{
+	cursor:				pointer;
+	background-color:	#CCC;
+}

@@ -1,0 +1,1 @@
+[08-Jan-2020 11:09:50 Africa/Johannesburg] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home2/c350324/admin.inspiredinterfaces.co.za/ii-eLearning/classes/classLearner.php on line 76
